@@ -4,6 +4,8 @@
 """
 
 model_options = {
+    "ep-20250528135621-chftk": "火山方舟1.5Pro",
+    "doubao-seed-1-6-251015": "火山方舟1.6",
     "deepseek-chat": "DeepSeek Chat (默认)",
     "deepseek-reasoner": "DeepSeek Reasoner (推理增强)",
     "qwen-plus": "qwen-plus (阿里百炼)",
